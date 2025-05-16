@@ -7,16 +7,17 @@ This repository contains a practical implementation of the K-Nearest Neighbors (
 'KNN-Classifier.ipynb' — Jupyter Notebook demonstrating the KNN algorithm with sample data.
 'dataset.csv' — Dataset used for training and testing the model.
 About KNN Algorithm
-## K-Nearest Neighbors (KNN) is a simple, supervised machine learning algorithm used for classification and regression tasks. It classifies new data points based on the majority class among its 'k' nearest neighbors in the feature space.
+## About K-Nearest Neighbors Algorithm
+K-Nearest Neighbors (KNN) is a simple, supervised machine learning algorithm used for classification and regression tasks. It classifies new data points based on the majority class among its 'k' nearest neighbors in the feature space.
 
 ## How to use
-Download the notebook and dataset files.
-Open the notebook in Jupyter.
-Run the cells step-by-step to see the KNN algorithm in action.
-Modify the notebook or dataset as needed for experimentation.
+1. Download files(jupyter notebook and dataset)
+2. Open notebook in Jupyter
+3. Run cells step-by-step to see KNN in action
+4. Modify the notebook or dataset as needed for experimentation.
 ## Requirements
-Python 3.x
-Libraries: numpy, pandas, scikit-learn, matplotlib
+1. Python 3.x
+2. Libraries: numpy, pandas, scikit-learn, matplotlib
 ## Contact
 For any questions or suggestions, feel free to contact me.
 
